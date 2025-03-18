@@ -1,6 +1,7 @@
 # HTML-learning-projects
-This repository is part of my journey to <b>re-learn and reinforce my HTML skills</b>. I'm starting with the fundamentals and gradually building practical projects to solidify my knowledge.
 
-Currently, I am working on <b> a Cat Photo App </b>as part of the Responsive Web Design course from freeCodeCamp. This project allows me to apply what I've learned in HTML to real-world scenarios, providing hands-on experience as I continue to grow my web development skills.
+This project, titled <b>Cat Photo App</b>, is part of the <i>Responsive Web Design certification from freeCodeCamp</i>. It serves as a practical application of the HTML skills I have developed throughout the course.
 
-I'm excited to build and experiment with new concepts as I progress through this course, focusing on both learning and practical application.
+Through this project, I gained valuable experience in structuring web pages using HTML, while also learning how to leverage GitHub for version control and project management. This hands-on project allowed me to implement fundamental HTML concepts in a real-world context, and provided me with a deeper understanding of both front-end development and the importance of using version control effectively.
+
+By building the Cat Photo App, I was able to reinforce my knowledge of HTML elements, attributes, and semantic structure, while also gaining a clearer understanding of how to manage and deploy projects using GitHub.

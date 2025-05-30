@@ -2,7 +2,7 @@ This repository is a key part of my journey to <b>re-learn and strengthen my HTM
 
 As I continue through my learning path, I am excited to build and experiment with new concepts, focusing on both mastering the theory and applying it in real-world scenarios. This repository will serve as a collection of my learning projects, showcasing my progress as I explore and refine my skills in web development.
 
-<p>_**Please note all links mentioned below are clickable**_</p>
+<p><em><strong>Please note all links mentioned below are clickable</strong></em></p>
 <h2><a href="https://ananya88.github.io/Learning_Projects/Cat_Photo_App/">Project 1- Cat Photo App</a></h2>
 <h2><a href= "https://ananya88.github.io/Learning_Projects/Registration_Form/">Project 2- Registration Form</a></h2?>
 
